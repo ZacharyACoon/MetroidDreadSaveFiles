@@ -1,0 +1,17 @@
+log shows 'Encountered a mysterious enemy.'
+killed 2 hedgehog looking enemies on horizontal surfaces
+slide tutorial
+encountered charge beam door
+free aim tutorial
+killed 1 slug enemy on vertical surface
+2 visible beam breakable blocks to shoot, and climb between ledges
+first missile block, 14of15 missiles
+hidden beam breakable block tutorial
+beam door
+network station cutscene, adam
+saved progress
+AFTER THIS SAVE
+map '+' dialogue
+log shows 'Received Adam Briefing in Artaria. A'
+return to main menu
+14/15 missiles, 99/99 energy, 00:04:22, items 0%
