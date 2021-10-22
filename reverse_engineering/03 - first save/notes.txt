@@ -1,0 +1,12 @@
+start
+killed 1 horizontal enemy
+killed 1 horizontal enemy
+tutorial, slide
+tutorial, free aim mode
+destroyed first heart bomb
+two beam breakable blocks for climbing, they regenerate
+killed 1 vertical enemy
+tutorial, missiles
+tutorial, hidden destructible blocks
+cutscene, network station, adam
+save
